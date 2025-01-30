@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi there, I'm Paul 👋<br><br>I'm a software developer at 4sellers with a passion for building efficient and scalable applications. Currently, I'm working on my Abschlussprojekt for my Berufsschule, called BSL-Maps, and also developing my private project, Job-Nest.<br><br>🚀 What I'm working on<br>📌 BSL-Maps – My Abschlussprojekt for my Berufsschule. View Project<br>💼 Job-Nest – A personal project. View Project<br>🎯 Expanding my knowledge of React and modern front-end frameworks<br>🔧 Building and optimizing solutions at 4sellers<br>💡 Tech Stack<br>Languages: C#, JavaScript, HTML, CSS<br>Frameworks/Libraries: React, Node.js, . NET Core, . NET Framework<br>Tools: Visual Studio, Git, Docker, CI/CD Pipelines<br>🌱 Currently Learning<br>Advanced React concepts<br>Performance optimization in front-end development<br>Scalable and maintainable UI architecture<br>📫 Connect with Me<br>💼 LinkedIn<br>📧 Reach me via GitHub or email
+Hi there, I'm Paul 👋<br><br>I'm a software developer at 4sellers with a passion for building efficient and scalable applications.
+- 🚀 I'm currently working on my final project **[BSL-Maps](https://github.com/BSL-Maps/BSL-Maps)** for my vocational school.  
+- 💡 On the side, I'm developing my private project **[Job-Nest](https://github.com/PaulPaulus123/Job-Nest)**.  
 
 
 ## 🌐 Socials:
